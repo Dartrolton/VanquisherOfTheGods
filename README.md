@@ -41,6 +41,5 @@ Send **GOWR-Script-Loader.log** and **GOWR-Script-Loader-Crash.log** from your g
 ## Credits
 
 - Vanquisher of the Gods by Darthrolton. The **VOTG Loader** by DEMON HUNTER (all rights reserved), built on **GoWR Script Loader** by Eiton (MIT license).
-- Major thanks to Mr. Ansatsuken - without his work, nearly 90% of my work wouldn't be possible.
 
 <sub>God of War Ragnarök, God of War and Kratos are trademarks of Sony Interactive Entertainment. This is an unofficial fan modification, not made, endorsed or supported by Sony Interactive Entertainment or Santa Monica Studio.</sub>
